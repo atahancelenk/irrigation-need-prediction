@@ -28,5 +28,5 @@ The notebook uses a rich set of libraries: **Pandas** for data manipulation, **S
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/atahancelenk/irrigation-need-prediction.git](https://github.com/yourusername/irrigation-need-prediction.git)
+   git clone [https://github.com/atahancelenk/irrigation-need-prediction.git](https://github.com/atahancelenk/irrigation-need-prediction.git)
    cd irrigation-need-prediction
